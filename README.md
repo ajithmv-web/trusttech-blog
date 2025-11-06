@@ -9,7 +9,6 @@ composer install
 3. Install Node.js dependencies (if using frontend assets)
 npm install
 npm run dev   # For development
-# or
 npm run build # For production
 
 4. Configure Environment File
