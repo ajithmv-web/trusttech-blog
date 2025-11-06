@@ -1,6 +1,6 @@
 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/trusttech-blog-portal.git
+git clone https://github.com/yourusername/trusttech-blog.git
 cd trusttech-blog-portal
 
 2 . Install PHP dependencies
